@@ -1,4 +1,4 @@
-# gahk-web
+# gahk3-web
 
 a [Sails v1](https://sailsjs.com) application
 
